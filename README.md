@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Hedgehog Logo" src="./icon.png" width="240" height="200"/>
+<img alt="Hedgehog Logo" src="./r.png" width="240" height="240"/>
 </p>
 
 <h1 align="center">Retrify</h1>
